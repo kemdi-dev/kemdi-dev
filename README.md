@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kemdi-dev
-- 👀 I’m interested in web and game development and I love web design
+- 👀 I’m interested in web and game development and I love UI/UX design
 - 🌱 I’m currently learning unreal engine
 - 💞️ I’m looking to collaborate on a video game project 😌
 - 📫 How to reach me: kemdi.ik[at]gmail[dot]com
